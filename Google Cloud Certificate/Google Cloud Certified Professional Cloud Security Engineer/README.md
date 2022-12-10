@@ -29,3 +29,7 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - ****セクション 5. コンプライアンスの確保****
 
 [セキュリティ ホワイトペーパー | Google Cloud](https://cloud.google.com/docs/security?hl=ja)
+
+## words
+- [cross_site_scripting](https://www.amiya.co.jp/column/cross_site_scripting_20210118.html)
+
