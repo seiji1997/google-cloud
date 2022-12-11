@@ -32,4 +32,5 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 
 ## words
 - [cross_site_scripting](https://www.amiya.co.jp/column/cross_site_scripting_20210118.html)
-
+- [PCI DSS](https://www.tis.jp/special/platform_knowledge/pci01/)
+- [Forseti - Google with spotify](https://cloud.google.com/blog/ja/products/gcp/with-forseti-spotify-and-google-release-gcp-security-tools-to-open-source-community15)
