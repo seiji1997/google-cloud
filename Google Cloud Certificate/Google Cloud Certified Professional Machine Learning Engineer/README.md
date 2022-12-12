@@ -1,4 +1,4 @@
-# # Google Cloud Certified Professional Machine Learning Engineer
+# Google Cloud Certified Professional Machine Learning Engineer
 
 **[Official Professional Machine Learning Engineer](https://cloud.google.com/certification/guides/machine-learning-engineer)**
 
