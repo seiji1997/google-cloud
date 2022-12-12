@@ -1,4 +1,4 @@
-# # Google Cloud Certified Professional Cloud Security Engineer
+# Google Cloud Certified Professional Cloud Security Engineer
 
 [Professional Cloud Security Engineer試験対策マニュアル。出題傾向・勉強方法 - G-gen Tech Blog](https://blog.g-gen.co.jp/entry/professional-cloud-security-engineer)
 
