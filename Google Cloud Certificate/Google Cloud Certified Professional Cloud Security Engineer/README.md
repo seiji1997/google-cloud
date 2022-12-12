@@ -38,4 +38,4 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - {}
 - [SAML - SSO](https://boxil.jp/mag/a2950
 - [Cloud KMS](https://blog.g-gen.co.jp/entry/cloud-kms-explained)
-
+- [Resource Manager](https://cloud.google.com/resource-manager?hl=ja)
