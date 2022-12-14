@@ -47,4 +47,5 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [Google Cloud Directory Sync](https://support.google.com/a/answer/106368?hl=en)
 - [IAMのDenyポリシー](https://blog.g-gen.co.jp/entry/iam-deny-policy-explained)
 - [BeyondCorp Enterprise](https://blog.g-gen.co.jp/entry/beyondcorp-enterprise-explained)
-
+- [Binary Authorization](https://cloud.google.com/binary-authorization)
+- [Artifact Registry と Container Analysis ](https://qiita.com/suzuyui/items/24e9ba8590deea17c456)
