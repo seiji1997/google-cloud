@@ -38,3 +38,12 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [Cloud KMS](https://blog.g-gen.co.jp/entry/cloud-kms-explained)
 - [Resource Manager](https://cloud.google.com/resource-manager?hl=ja)
 - [Super administrator account best practices](https://cloud.google.com/resource-manager/docs/super-admin-best-practices)
+- [組織のポリシー](https://blog.g-gen.co.jp/entry/organization-policy-explained)
+- [Google CloudのVPC](https://blog.g-gen.co.jp/entry/vpc-explained-basics)
+- [IAM](https://blog.g-gen.co.jp/entry/iam-explained)
+- [Cloud KMS](https://blog.g-gen.co.jp/entry/cloud-kms-explained)
+- [Cloud Data Loss Prevention](https://cloud.google.com/dlp)
+- [Google Cloud Directory Sync](https://support.google.com/a/answer/106368?hl=en)
+
+
+
