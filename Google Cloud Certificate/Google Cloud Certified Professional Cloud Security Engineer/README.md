@@ -41,6 +41,7 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [組織のポリシー](https://blog.g-gen.co.jp/entry/organization-policy-explained)
 - [Google CloudのVPC](https://blog.g-gen.co.jp/entry/vpc-explained-basics)
 - [IAM](https://blog.g-gen.co.jp/entry/iam-explained)
+- [IAP(Identity-Aware Proxy)](https://blog.g-gen.co.jp/entry/login-your-vm-with-iap)
 - [Cloud KMS](https://blog.g-gen.co.jp/entry/cloud-kms-explained)
 - [Cloud Data Loss Prevention](https://cloud.google.com/dlp)
 - [Google Cloud Directory Sync](https://support.google.com/a/answer/106368?hl=en)
