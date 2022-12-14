@@ -44,6 +44,6 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [Cloud KMS](https://blog.g-gen.co.jp/entry/cloud-kms-explained)
 - [Cloud Data Loss Prevention](https://cloud.google.com/dlp)
 - [Google Cloud Directory Sync](https://support.google.com/a/answer/106368?hl=en)
-
+- [IAMのDenyポリシー](https://blog.g-gen.co.jp/entry/iam-deny-policy-explained)
 
 
