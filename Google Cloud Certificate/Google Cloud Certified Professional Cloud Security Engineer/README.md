@@ -54,5 +54,5 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [vpc-service-controls - dry-run-mode](https://cloud.google.com/vpc-service-controls/docs/dry-run-mode)
 - [IAP(Identity-Aware Proxy)](https://blog.g-gen.co.jp/entry/login-your-vm-with-iap)
 - [Identity-Aware Proxy](https://cloud.google.com/iap/docs/concepts-overview)
-
-
+- [SSL証明](https://www.rworks.jp/system/system-column/sys-entry/21283/)
+- [L7ロードバランサー](https://faq.support.nifcloud.com/faq/show/420?site_domain=default)
