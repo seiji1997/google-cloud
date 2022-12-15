@@ -28,7 +28,9 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - ****セクション 4. クラウド ソリューション環境内のオペレーションの管理****
 - ****セクション 5. コンプライアンスの確保****
 
-[セキュリティ ホワイトペーパー | Google Cloud](https://cloud.google.com/docs/security?hl=ja)
+## MUST READING
+- [セキュリティ ホワイトペーパー | Google Cloud](https://cloud.google.com/docs/security?hl=ja)
+- [best-practices-for-federating](https://cloud.google.com/architecture/identity/best-practices-for-federating)
 
 ## MUST UNDERSTAND CONCEPTS
 - [cross_site_scripting](https://www.amiya.co.jp/column/cross_site_scripting_20210118.html)
