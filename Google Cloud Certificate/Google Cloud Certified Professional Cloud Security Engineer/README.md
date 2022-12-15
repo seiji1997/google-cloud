@@ -51,3 +51,4 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [Artifact Registry と Container Analysis ](https://qiita.com/suzuyui/items/24e9ba8590deea17c456)
 - [Cloud Logging](https://blog.g-gen.co.jp/entry/cloud-logging-explained)
 - [Cloud Audit Logs](https://blog.g-gen.co.jp/entry/cloud-audit-logs-explained)
+- [firewall-insights](https://cloud.google.com/network-intelligence-center/docs/firewall-insights/concepts/overview?hl=ja)
