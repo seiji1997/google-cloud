@@ -52,10 +52,7 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [Cloud Audit Logs](https://blog.g-gen.co.jp/entry/cloud-audit-logs-explained)
 - [firewall-insights](https://cloud.google.com/network-intelligence-center/docs/firewall-insights/concepts/overview?hl=ja)
 - [vpc-service-controls - dry-run-mode](https://cloud.google.com/vpc-service-controls/docs/dry-run-mode)
-
-#### IAP
 - [IAP(Identity-Aware Proxy)](https://blog.g-gen.co.jp/entry/login-your-vm-with-iap)
 - [Identity-Aware Proxy](https://cloud.google.com/iap/docs/concepts-overview)
-IAP を使用すると、HTTPS によってアクセスされるアプリケーションの一元的な承認レイヤを確立できるため、ネットワーク レベルのファイアウォールに頼らずに、アプリケーション レベルのアクセス制御モデルを使用できます。
 
 
