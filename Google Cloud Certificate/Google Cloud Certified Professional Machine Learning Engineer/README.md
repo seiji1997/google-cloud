@@ -4,4 +4,5 @@
 
 **[How to study for (and pass) Google's Professional Machine Learning Engineer certification](https://www.linkedin.com/pulse/how-study-pass-googles-professional-machine-learning-engineer-siegel/)**
 
-I will take 2022/12/31
+I will take 2022/12/31.<br>
+This is my final exam in 2022.
