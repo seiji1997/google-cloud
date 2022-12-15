@@ -49,3 +49,5 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [BeyondCorp Enterprise](https://blog.g-gen.co.jp/entry/beyondcorp-enterprise-explained)
 - [Binary Authorization](https://cloud.google.com/binary-authorization)
 - [Artifact Registry と Container Analysis ](https://qiita.com/suzuyui/items/24e9ba8590deea17c456)
+- [Cloud Logging](https://blog.g-gen.co.jp/entry/cloud-logging-explained)
+- [Cloud Audit Logs](https://blog.g-gen.co.jp/entry/cloud-audit-logs-explained)
