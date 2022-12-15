@@ -41,7 +41,6 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [組織のポリシー](https://blog.g-gen.co.jp/entry/organization-policy-explained)
 - [Google CloudのVPC](https://blog.g-gen.co.jp/entry/vpc-explained-basics)
 - [IAM](https://blog.g-gen.co.jp/entry/iam-explained)
-- [IAP(Identity-Aware Proxy)](https://blog.g-gen.co.jp/entry/login-your-vm-with-iap)
 - [Cloud KMS](https://blog.g-gen.co.jp/entry/cloud-kms-explained)
 - [Cloud Data Loss Prevention](https://cloud.google.com/dlp)
 - [Google Cloud Directory Sync](https://support.google.com/a/answer/106368?hl=en)
@@ -53,3 +52,10 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [Cloud Audit Logs](https://blog.g-gen.co.jp/entry/cloud-audit-logs-explained)
 - [firewall-insights](https://cloud.google.com/network-intelligence-center/docs/firewall-insights/concepts/overview?hl=ja)
 - [vpc-service-controls - dry-run-mode](https://cloud.google.com/vpc-service-controls/docs/dry-run-mode)
+
+#### IAP
+- [IAP(Identity-Aware Proxy)](https://blog.g-gen.co.jp/entry/login-your-vm-with-iap)
+- [Identity-Aware Proxy](https://cloud.google.com/iap/docs/concepts-overview)
+IAP を使用すると、HTTPS によってアクセスされるアプリケーションの一元的な承認レイヤを確立できるため、ネットワーク レベルのファイアウォールに頼らずに、アプリケーション レベルのアクセス制御モデルを使用できます。
+
+
