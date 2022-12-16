@@ -7,6 +7,13 @@
 I will take 2022/12/31.<br>
 This is my final exam in 2022.
 
+## STEP
+- 1, check [Official Professional Machine Learning Engineer](https://cloud.google.com/certification/guides/machine-learning-engineer)
+- 2, take [Professional Machine Learning Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSeYmkCANE81qSBqLW0g2X7RoskBX9yGYQu-m1TtsjMvHabGqg/viewform)
+- 3, [Google Cloud Machine Learning Engineer Certification Prep](https://www.udemy.com/course/google-cloud-machine-learning-engineer-certification-prep/)
+- 4, [Google Cloud Professional Machine Learning Engineer *2022*](https://www.udemy.com/course/google-cloud-professional-machine-learning-engineer-2022/)
+- 5, [REGISTER FOR AN EXAM](https://www.webassessor.com/googlecloudjp)
+
 ### MUST　UNDERSTAND CONCEPTS
 
 #### Vertex AI
