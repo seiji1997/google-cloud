@@ -81,13 +81,6 @@ Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certi
 このコースでは、トップダウン アプローチを使ってすでに身に着けている知識とスキルを把握し、情報とスキルが不十分な分野を特定します。本コースを受講することにより、独自の対策計画を立てることができます。わかっていることとわからないことを明確にし、この職務を担当する際に必要なスキルの習得と向上にお役立てください。
 
 ## **2022/8/1,2**
-
-[Modernizing Data Lakes and Data Warehouse with GCP Japanese version](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-jp/home/week/1)
-
-**note**
-
-[https://docs.google.com/document/d/15l-rmA3IjGVvuyHFXPEv5X407Vad8Gh5OdE0bYNooxM/edit](https://docs.google.com/document/d/15l-rmA3IjGVvuyHFXPEv5X407Vad8Gh5OdE0bYNooxM/edit)
-
 **week1** Learning Data Engineering and Building Data Lakes (total 2 h video)
 
 - Learning Data Engineering (1h video, lab(analysis using BigQuery), test(about Data Engineering))
@@ -100,12 +93,6 @@ Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certi
 - Partitioning and Clustering by BigQuery(test(Building DWH))
 
 ## 2022/8/3
-
-**[Building Resilient Streaming Analytics Systems on GCP Japanese version](https://www.coursera.org/learn/streaming-analytics-systems-gcp-jp/home/week/1)**
-
-**note**
-
-[https://docs.google.com/document/d/1nl6aOPLmoT-RrShNBN9S91gJxSSf20Fk3oGclMIe7tk/edit](https://docs.google.com/document/d/1nl6aOPLmoT-RrShNBN9S91gJxSSf20Fk3oGclMIe7tk/edit)
 
 **week1** Processing Streaming Data and Using Pub/Sub
 
@@ -125,13 +112,6 @@ Highly Functions and Performance of BigQuery(total 45 min video)
 - Highly Functions of BigQuery(a few video, lab((Performance Optimization with SQL of BigQuery) and (Make a Date Partition table by BigQuery)))
 
 ## **2022/8/3**
-
-[Google Cloud Big Data and Machine Learning Fundamentals Japanese version](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-jp/home/week/1) 
-
-**note**
-
-[https://docs.google.com/document/d/18Ew8pClvvmOdGwnud8ONK2FLCJ1e8ct-OuFyDvMHm74/edit](https://docs.google.com/document/d/18Ew8pClvvmOdGwnud8ONK2FLCJ1e8ct-OuFyDvMHm74/edit)
-
 week1 (Data and Machine Learning on GCP Specialized course, total 7 min video)
 
 - lab(Search open resource dataset of BigQuery), test(review of module)
@@ -157,13 +137,6 @@ week5(Machine Learning workflow for VertexAI)
 week6(summary, 3 min video)
 
 ## **2022/8/4**
-
-[Preparing for the Google Cloud Professional Data Engineer Exam Japanese version](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-jp/home/week/1)
-
-**note**
-
-[https://docs.google.com/document/d/1f1OyfNZZZ_y24MbenS5di0--mNlLmljl-EZI8vnBRZU/edit](https://docs.google.com/document/d/1f1OyfNZZZ_y24MbenS5di0--mNlLmljl-EZI8vnBRZU/edit)
-
 - Well Come Professional Data Engineer Exam(18 min video, 40 min text, test 3 Questions)
 - Design of Data Processing Systems(39 min video, 20 min text, pre-exam1)
 - Design of Data Processing Systems and Operationalization(16 min video, 30 min text, pre-exam2, lab(challenge))
@@ -172,13 +145,6 @@ week6(summary, 3 min video)
 - Release and Next Step(5 min video, 20 min text, for exam)
 
 ## **2022/8/5**
-
-[Smart Analytics, Machine Learning, And AI on GCP Japanese version](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-jp/home/week/1)
-
-**note**
-
-[https://docs.google.com/document/d/1QxfyX-riVdOghtqaGKJCYQvXHukYkOV2VQ3Y_VFIQ3Q/edit](https://docs.google.com/document/d/1QxfyX-riVdOghtqaGKJCYQvXHukYkOV2VQ3Y_VFIQ3Q/edit)
-
 week1
 
 - Overview of Analytics and AI(18 min video, test(overview of analytics and AI))
@@ -192,13 +158,6 @@ week2
 - Build a custom model using Cloud Auto ML(26 min video, test(build of custom model using Cloud AutoML))
 
 ## **2022/8/6**
-
-[Building Batch Data Pipelines on GCP Japanese version](https://www.coursera.org/learn/batch-data-pipelines-gcp-jp/home/week/1)
-
-**note**
-
-[https://docs.google.com/document/d/11kDubpnEb8mYcgX0IXwsCwhj8DcGtaomofCZQUCqyh4/edit](https://docs.google.com/document/d/11kDubpnEb8mYcgX0IXwsCwhj8DcGtaomofCZQUCqyh4/edit)
-
 week1 
 
 - Overview Batch Data Pipeline(17 min video, test(EL, ELT, ETL))
