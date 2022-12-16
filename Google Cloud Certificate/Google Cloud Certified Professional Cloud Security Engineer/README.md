@@ -60,3 +60,4 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [SSL証明](https://www.rworks.jp/system/system-column/sys-entry/21283/)
 - [L7ロードバランサー](https://faq.support.nifcloud.com/faq/show/420?site_domain=default)
 - [VPC - 境界ブリッジ]([https://cloud.google.com/vpc-service-controls/docs/create-perimeter-bridges?hl=ja](https://cloud.google.com/vpc-service-controls/docs/share-across-perimeters?hl=ja))
+- [FIPS 140-2](https://cloud.google.com/security/compliance/fips-140-2-validated)
