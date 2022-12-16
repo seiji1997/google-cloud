@@ -59,3 +59,4 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - [Identity-Aware Proxy](https://cloud.google.com/iap/docs/concepts-overview)
 - [SSL証明](https://www.rworks.jp/system/system-column/sys-entry/21283/)
 - [L7ロードバランサー](https://faq.support.nifcloud.com/faq/show/420?site_domain=default)
+- [VPC - 境界ブリッジ](https://cloud.google.com/vpc-service-controls/docs/create-perimeter-bridges?hl=ja)
