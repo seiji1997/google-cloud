@@ -1,11 +1,8 @@
 # Google Cloud Certified Professional Machine Learning Engineer
+I will take 2022/12/31. This is my final exam in 2022.
 
-**[Official Professional Machine Learning Engineer](https://cloud.google.com/certification/guides/machine-learning-engineer)**
-
-**[How to study for (and pass) Google's Professional Machine Learning Engineer certification](https://www.linkedin.com/pulse/how-study-pass-googles-professional-machine-learning-engineer-siegel/)**
-
-I will take 2022/12/31.<br>
-This is my final exam in 2022.
+- **[Official Professional Machine Learning Engineer](https://cloud.google.com/certification/guides/machine-learning-engineer)**
+- **[How to study for (and pass) Google's Professional Machine Learning Engineer certification](https://www.linkedin.com/pulse/how-study-pass-googles-professional-machine-learning-engineer-siegel/)**
 
 ## LEARNING STEP
 - 1, [Official Professional Machine Learning Engineer](https://cloud.google.com/certification/guides/machine-learning-engineer)
