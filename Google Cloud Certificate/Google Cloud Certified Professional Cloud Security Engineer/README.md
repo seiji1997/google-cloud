@@ -1,8 +1,7 @@
 # Google Cloud Certified Professional Cloud Security Engineer
 
-[Professional Cloud Security Engineer試験対策マニュアル。出題傾向・勉強方法 - G-gen Tech Blog](https://blog.g-gen.co.jp/entry/professional-cloud-security-engineer)
-
-[Professional Cloud Security Engineer Certification | Google Cloud](https://cloud.google.com/certification/cloud-security-engineer)
+- [Professional Cloud Security Engineer試験対策マニュアル。出題傾向・勉強方法 - G-gen Tech Blog](https://blog.g-gen.co.jp/entry/professional-cloud-security-engineer)
+- [Professional Cloud Security Engineer Certification | Google Cloud](https://cloud.google.com/certification/cloud-security-engineer)
 
 # **Professional Cloud Security Engineer**
 
@@ -17,10 +16,8 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 - データ保護の確保
 
 模擬試験
-
-[https://docs.google.com/forms/d/e/1FAIpQLSf4ADmZr8WnDZjIK6dWvRTel2VmsP0fJtONy6UOFjWZHe-MpQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSf4ADmZr8WnDZjIK6dWvRTel2VmsP0fJtONy6UOFjWZHe-MpQ/viewform)
-
-[Professional Cloud Security Engineer Exam Guide | Google Cloud](https://cloud.google.com/certification/guides/cloud-security-engineer)
+- [https://docs.google.com/forms/d/e/1FAIpQLSf4ADmZr8WnDZjIK6dWvRTel2VmsP0fJtONy6UOFjWZHe-MpQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSf4ADmZr8WnDZjIK6dWvRTel2VmsP0fJtONy6UOFjWZHe-MpQ/viewform)
+- [Professional Cloud Security Engineer Exam Guide | Google Cloud](https://cloud.google.com/certification/guides/cloud-security-engineer)
 
 - ****セクション 1. クラウド ソリューション環境内のアクセスの構成****
 - ****セクション 2. ネットワーク セキュリティの構成****
@@ -31,6 +28,7 @@ Professional Cloud Security Engineer 試験では、以下に関する能力が�
 ## MUST READING
 - [セキュリティ ホワイトペーパー | Google Cloud](https://cloud.google.com/docs/security?hl=ja)
 - [best-practices-for-federating](https://cloud.google.com/architecture/identity/best-practices-for-federating)
+- [Best practices for planning accounts and organizations](https://cloud.google.com/architecture/identity/best-practices-for-planning)
 
 ## MUST UNDERSTAND CONCEPTS
 - [cross_site_scripting](https://www.amiya.co.jp/column/cross_site_scripting_20210118.html)
