@@ -11,7 +11,6 @@ I will take 2022/12/31. This is my final exam in 2022.
 - 4, [Google Cloud Professional Machine Learning Engineer *2022*](https://www.udemy.com/course/google-cloud-professional-machine-learning-engineer-2022/)
 - 5, [REGISTER FOR AN EXAM](https://www.webassessor.com/googlecloudjp)
 
-# INFO 
 ## MACHINE LEARNING ON GOOGLE
 - [Best practices for implementing machine learning on Google Cloud](https://cloud.google.com/architecture/ml-on-gcp-best-practices)
 - [Best practices for performance and cost optimization for machine learning](https://cloud.google.com/architecture/best-practices-for-ml-performance-cost)
