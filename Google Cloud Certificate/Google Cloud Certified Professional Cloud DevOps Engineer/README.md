@@ -6,7 +6,5 @@ I will take 2023/1/9. This is my first exam in 2023.
 
 ## LEARNING STEP
 
-# INFO
-
 ## MUST UNDERSTAND CONCEPTS
 
