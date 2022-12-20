@@ -70,7 +70,6 @@ I will take 2022/12/31. This is my final exam in 2022.
     ●  Assessing data readiness and potential limitations
 
     ●  Aligning with Google’s Responsible AI practices (e.g., different biases)
-- [Vertex AI](https://cloud.google.com/vertex-ai)
 - []()
 - []()
 
@@ -190,6 +189,7 @@ Considerations include:
     ●  Distributed training
 
     ●  Scaling prediction service (e.g., Vertex AI Prediction, containerized serving)
+- [Vertex AI](https://cloud.google.com/vertex-ai)
 - []()
 - []()
 - []()
