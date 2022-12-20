@@ -11,12 +11,30 @@ I will take 2022/12/31. This is my final exam in 2022.
 - 4, [Google Cloud Professional Machine Learning Engineer *2022*](https://www.udemy.com/course/google-cloud-professional-machine-learning-engineer-2022/)
 - 5, [REGISTER FOR AN EXAM](https://www.webassessor.com/googlecloudjp)
 
-## MUST UNDERSTAND CONCEPTS
+# INFO 
+## MACHINE LEARNING ON GOOGLE
+- [Best practices for implementing machine learning on Google Cloud](https://cloud.google.com/architecture/ml-on-gcp-best-practices)
+- [Best practices for performance and cost optimization for machine learning](https://cloud.google.com/architecture/best-practices-for-ml-performance-cost)
 
-#### Vertex AI
+## MACHINE LEARNING RESOURCES
+- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Scikit-Learn](https://scikit-learn.org/stable/)
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/)
+
+## DATA ENGINEERING RESOURCES
+- [Apache Beam](https://beam.apache.org/)
+- [Apache Spark](https://spark.apache.org/)
+
+## PAPER
+- [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+
+## MUST UNDERSTAND CONCEPTS
 - [Vertex AI](https://cloud.google.com/vertex-ai)
-- [構造化データのtutorials](https://cloud.google.com/vertex-ai/docs/tutorials/tabular-automl)
-- [Vertex AI を徹底解説！（基本編）](https://blog.g-gen.co.jp/entry/vertexai-explained)
-- [Vertex AI AutoML で作成した機械学習モデルを Cloud Run にデプロイする](https://blog.g-gen.co.jp/entry/hosting-automl-model-on-cloudrun)
-- [機械学習初心者がVertex AIでモデルを構築してみた（AutoML）](https://blog.g-gen.co.jp/entry/vertexai-automl-tabular)
-- [AutoML(Vertex AI)でおもちゃの画像分類](https://blog.g-gen.co.jp/entry/vertexai-automl-image-classification)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
