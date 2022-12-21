@@ -13,10 +13,10 @@ I organize Google Cloud certified and other things.
 - [Google Cloud Certified Professional Cloud Database Engineer](Google%20Cloud%20Certificate/Google%20Cloud%20Certified%20Professional%20Cloud%20Database%20Engineer)
 - [Google Cloud Certified Professional Machine Learning Engineer](Google%20Cloud%20Certificate/Google%20Cloud%20Certified%20Professional%20Machine%20Learning%20Engineer)
 
-### AI Platform
+### [AI Platform](AI%20Platform)
 
-### AutoML
+### [AutoML](AutoML)
 
-### BigQueryML
+### [BigQueryML](BigQueryML)
 
 ### [VertexAI](VertexAI)
