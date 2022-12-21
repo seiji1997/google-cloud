@@ -1,4 +1,4 @@
-# VerTexAI
+# VertexAI
 - [Vertex AI](https://cloud.google.com/vertex-ai)
 - [Introduction to Vertex AI](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform)
 - [構造化データのtutorials](https://cloud.google.com/vertex-ai/docs/tutorials/tabular-automl)
