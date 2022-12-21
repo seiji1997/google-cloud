@@ -17,12 +17,28 @@ Introduce AutoML to understand key difference between AutoML and costom training
 - [tutorials - tablar data](https://cloud.google.com/vertex-ai/docs/tutorials/tabular-automl)<br>
 
 ## tools for making models and predicting
-
 - Datasets<br>
 [https://cloud.google.com/vertex-ai/docs/training-overview](https://cloud.google.com/vertex-ai/docs/training-overview?hl=ja)<br>
 
+- Vertex AI Feature Store<br>
+[https://cloud.google.com/vertex-ai/docs/featurestore/overview](https://cloud.google.com/vertex-ai/docs/featurestore/overview?hl=ja)<br>
+
+- Vertex AI Labeling tasks<br>
+[https://cloud.google.com/vertex-ai/docs/datasets/data-labeling-job](https://cloud.google.com/vertex-ai/docs/datasets/data-labeling-job?hl=ja)
+
+- Vertex AI Workbench<br>
+[https://cloud.google.com/vertex-ai/docs/workbench/introduction](https://cloud.google.com/vertex-ai/docs/workbench/introduction?hl=ja)<br>
+[https://cloud.google.com/vertex-ai/docs/workbench/managed/introduction](https://cloud.google.com/vertex-ai/docs/workbench/managed/introduction?hl=ja)<br>
+[https://cloud.google.com/vertex-ai/docs/workbench/user-managed/introduction](https://cloud.google.com/vertex-ai/docs/workbench/user-managed/introduction?hl=ja)<br>
+
+- Vertex AI Pipelines<br>
+[https://cloud.google.com/vertex-ai/docs/pipelines/introduction](https://cloud.google.com/vertex-ai/docs/pipelines/introduction?hl=ja)<br>
+
 - Training<br>
 [https://cloud.google.com/vertex-ai/docs/explainable-ai/overview](https://cloud.google.com/vertex-ai/docs/explainable-ai/overview)<br>
+
+- Vertex AI Experiments<br>
+[https://cloud.google.com/blog/topics/developers-practitioners/track-compare-manage-experiments-vertex-ai-experiments?hl=en](https://cloud.google.com/blog/topics/developers-practitioners/track-compare-manage-experiments-vertex-ai-experiments?hl=en)<br>
 
 - Vertex AI Model Registry<br>
 [https://cloud.google.com/vertex-ai/docs/model-registry/introduction](https://cloud.google.com/vertex-ai/docs/model-registry/introduction?hl=ja)<br>
@@ -33,29 +49,11 @@ Introduce AutoML to understand key difference between AutoML and costom training
 - Batch predictions<br>
 [https://cloud.google.com/vertex-ai/docs/predictions/overview?hl=ja#batch_predictions](https://cloud.google.com/vertex-ai/docs/predictions/overview?hl=ja#batch_predictions)<br>
 
-Tools<br>
-- Vertex AI Workbench<br>
-[https://cloud.google.com/vertex-ai/docs/workbench/introduction](https://cloud.google.com/vertex-ai/docs/workbench/introduction?hl=ja)<br>
-[https://cloud.google.com/vertex-ai/docs/workbench/managed/introduction](https://cloud.google.com/vertex-ai/docs/workbench/managed/introduction?hl=ja)<br>
-[https://cloud.google.com/vertex-ai/docs/workbench/user-managed/introduction](https://cloud.google.com/vertex-ai/docs/workbench/user-managed/introduction?hl=ja)<br>
-
-- Vertex AI Feature Store<br>
-[https://cloud.google.com/vertex-ai/docs/featurestore/overview](https://cloud.google.com/vertex-ai/docs/featurestore/overview?hl=ja)<br>
-
-- Vertex AI Labeling tasks<br>
-[https://cloud.google.com/vertex-ai/docs/datasets/data-labeling-job](https://cloud.google.com/vertex-ai/docs/datasets/data-labeling-job?hl=ja)
-
-- Vertex AI Pipelines<br>
-[https://cloud.google.com/vertex-ai/docs/pipelines/introduction](https://cloud.google.com/vertex-ai/docs/pipelines/introduction?hl=ja)<br>
-
 - Vertex ML Metadata<br>
 [https://cloud.google.com/vertex-ai/docs/ml-metadata/introduction](https://cloud.google.com/vertex-ai/docs/ml-metadata/introduction?hl=ja)<br>
 
-- Vertex AI Experiments<br>
-[https://cloud.google.com/blog/topics/developers-practitioners/track-compare-manage-experiments-vertex-ai-experiments?hl=en](https://cloud.google.com/blog/topics/developers-practitioners/track-compare-manage-experiments-vertex-ai-experiments?hl=en)<br>
+- Vertex AI Matching Engine<br>
+[https://cloud.google.com/vertex-ai/docs/matching-engine/overview](https://cloud.google.com/vertex-ai/docs/matching-engine/overview?hl=ja)<br>
 
 - Vertex AI Vizier<br>
 [https://cloud.google.com/vertex-ai/docs/vizier/overview](https://cloud.google.com/vertex-ai/docs/vizier/overview)<br>
-
-- Vertex AI Matching Engine<br>
-[https://cloud.google.com/vertex-ai/docs/matching-engine/overview](https://cloud.google.com/vertex-ai/docs/matching-engine/overview?hl=ja)<br>
