@@ -2,7 +2,8 @@
 ## Official
 - [Vertex AI](https://cloud.google.com/vertex-ai)
 - [Introduction to Vertex AI](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform)
-- [構造化データのtutorials](https://cloud.google.com/vertex-ai/docs/tutorials/tabular-automl)
+- [Choose a training method](https://cloud.google.com/vertex-ai/docs/start/training-methods)
+- [tutorials - table data](https://cloud.google.com/vertex-ai/docs/tutorials/tabular-automl)
 
 ## G-gen
 - [Vertex AI を徹底解説！（基本編）](https://blog.g-gen.co.jp/entry/vertexai-explained)
