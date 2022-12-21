@@ -14,6 +14,13 @@ This topic is the key differences between training a model in Vertex AI using Au
 Introduce AutoML to understand key difference between AutoML and costom training see Choosing a training method.<br>
 - [tutorials - tablar data](https://cloud.google.com/vertex-ai/docs/tutorials/tabular-automl)<br>
 
+## APIs
+- Vertex AI API
+- Cloud Storage API
+- Notebooks API
+- Dataflow API
+- Artifact Registry API
+
 ## G-gen
 - [Vertex AI を徹底解説！（基本編）](https://blog.g-gen.co.jp/entry/vertexai-explained)<br>
 - [Vertex AI AutoML で作成した機械学習モデルを Cloud Run にデプロイする](https://blog.g-gen.co.jp/entry/hosting-automl-model-on-cloudrun)<br>
