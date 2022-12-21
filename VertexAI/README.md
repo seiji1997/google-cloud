@@ -10,7 +10,8 @@ This topic is the key differences between training a model in Vertex AI using Au
 - [BigQuery ML limits](https://cloud.google.com/bigquery-ml/quotas)
 
 【tutorials】
-- [Vertex AI beginners guide](https://cloud.google.com/vertex-ai/docs/beginner/beginners-guide#tabular_1)
+- [Vertex AI beginners guide](https://cloud.google.com/vertex-ai/docs/beginner/beginners-guide#tabular_1)<br>
+Introduce AutoML to understand key difference between AutoML and costom training see Choosing a training method.<br>
 - [tutorials - tablar data](https://cloud.google.com/vertex-ai/docs/tutorials/tabular-automl)<br>
 
 ## G-gen
