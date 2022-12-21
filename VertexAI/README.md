@@ -22,9 +22,3 @@ Introduce AutoML to understand key difference between AutoML and costom training
 - Notebooks API
 - Dataflow API
 - Artifact Registry API
-
-## G-gen
-- [Vertex AI を徹底解説！（基本編）](https://blog.g-gen.co.jp/entry/vertexai-explained)<br>
-- [Vertex AI AutoML で作成した機械学習モデルを Cloud Run にデプロイする](https://blog.g-gen.co.jp/entry/hosting-automl-model-on-cloudrun)<br>
-- [機械学習初心者がVertex AIでモデルを構築してみた（AutoML）](https://blog.g-gen.co.jp/entry/vertexai-automl-tabular)<br>
-- [AutoML(Vertex AI)でおもちゃの画像分類](https://blog.g-gen.co.jp/entry/vertexai-automl-image-classification)<br>
