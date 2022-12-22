@@ -32,6 +32,9 @@ I will take 2022/12/31. This is my final exam in 2022.
 - [Apache Beam](https://beam.apache.org/)
 - [Apache Spark](https://spark.apache.org/)
 
+## data science
+- [datasciencedojo](https://datasciencedojo.com/blog) 
+
 ## PAPER
 - [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 
