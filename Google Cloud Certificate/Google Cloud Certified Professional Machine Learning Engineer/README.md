@@ -26,6 +26,7 @@ I will take 2022/12/31. This is my final exam in 2022.
 - [TensorFlow](https://www.tensorflow.org/)
 - [Scikit-Learn](https://scikit-learn.org/stable/)
 - [XGBoost](https://xgboost.readthedocs.io/en/stable/)
+- [Security - MLOps](https://www.frontiersin.org/articles/10.3389/fdata.2020.587139/full)
 
 ## DATA ENGINEERING RESOURCES
 - [Apache Beam](https://beam.apache.org/)
