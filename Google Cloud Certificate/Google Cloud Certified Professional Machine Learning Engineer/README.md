@@ -14,7 +14,7 @@ I will take 2022/12/31. This is my final exam in 2022.
 
 ## LEARNING PATH
 - [Data Engineering and Smart Analytics](https://cloud.google.com/training/data-engineering-and-analytics)
-- [Learning path: Machine Learning and AI](https://cloud.google.com/training/machinelearning-ai)
+- [Machine Learning and AI](https://cloud.google.com/training/machinelearning-ai)
 
 
 ## MACHINE LEARNING ON GOOGLE
