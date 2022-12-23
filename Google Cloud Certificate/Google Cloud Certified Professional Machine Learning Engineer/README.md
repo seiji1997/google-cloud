@@ -69,7 +69,7 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 - [“BD Podcast Ep 34 – Putting AI to Work with MLOps Powered by ParallelM”. Big Data Beard.](https://bigdatabeard.com/bd-podcast-ep-34-putting-ai-to-work-with-mlops-powered-by-parallelm/)
 - [“What is ML Ops? Solutions and best practices for applying DevOps to production ML services”. Artificial Intelligence Conference. O'Reilly.](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2018/public/schedule/detail/68247.html)
 
-## MUST UNDERSTAND CONCEPTS as of 2022/12/20
+## MUST UNDERSTAND CONCEPTS: as of 2022/12/20
 ### Section 1: Framing ML problems
 1.1 Translating business challenges into ML use cases. Considerations include:
 
