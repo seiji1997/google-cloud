@@ -141,7 +141,7 @@ Considerations include:
     ●  Building secure ML systems (e.g., protecting against unintentional exploitation of data/model, hacking)
 
     ●  Privacy implications of data usage and/or collection (e.g., handling sensitive data such as Personally Identifiable Information [PII] and Protected Health Information [PHI])
-- [CPU, GPU, TPU](https://cloud.google.com/tpu/docs/intro-to-tpu#when_to_use_tpus)
+- [When to use CPU, GPU, TPU](https://cloud.google.com/tpu/docs/intro-to-tpu#when_to_use_tpus)
 - []()
 - []()
 
