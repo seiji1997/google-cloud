@@ -41,17 +41,14 @@ I will take 2022/12/31. This is my final exam in 2022.
 
 ## MLOps
 - [wiki](https://en.wikipedia.org/wiki/MLOps)
-^ “What is ML Ops? Best Practices for Devops for ML”. YouTube. YouTube. 2020年7月19日閲覧。
-^ “What is MLOps?”. Algomox. Algomox. 2020年11月25日閲覧。
-^ “MLOps Silicon Valley”. Meetup. Meetup. 2018年2月2日閲覧。
-^ “Should every business function have an Ops extension?”. Tech HQ. Tech HQ. 2018年4月13日閲覧。
-^ “How to build AI culture: go through the curve of enlightenment”. Medium. Hackernoon. 2018年4月28日閲覧。
-^ “Why MLOps (and not just ML) is your Business’ New Competitive Frontier”. AITrends. AITrends. 2018年1月30日閲覧。
-^ “MLOps with serverless architectures (October 2018)”. LinkedIn SlideShare. Julien Simon. 2018年10月23日閲覧。
-^ “Scalable Data Science/Machine Learning: The State of DataOps / MLOps in 2018”. MachineLearning.AI. Alejandro Saucedo. 2018年9月9日閲覧。
-^ “Operational Machine Learning: Seven Considerations for Successful MLOps”. KDNuggets. KDNuggets. 2018年4月1日閲覧。
-^ “BD Podcast Ep 34 – Putting AI to Work with MLOps Powered by ParallelM”. Big Data Beard. Big Data Beard. 2018年7月17日閲覧。
-^ “What is ML Ops? Solutions and best practices for applying DevOps to production ML services”. Artificial Intelligence Conference. O'Reilly. 2018年10月10日閲覧。
+- [“What is ML Ops? Best Practices for Devops for ML”. YouTube.](https://www.youtube.com/watch?v=_jnhXzY1HCw)
+- [“MLOps Silicon Valley”. Meetup.](https://www.meetup.com/MLOps-Silicon-Valley/?_cookie-check=o1SkbKRfUlSuQoT3)
+- [“Should every business function have an Ops extension?”. Tech HQ.](https://techhq.com/2018/04/should-every-business-function-have-an-ops-extension/)
+- [“How to build AI culture: go through the curve of enlightenment”. Medium. Hackernoon.](https://hackernoon.com/how-to-build-ai-culture-go-through-the-curve-of-enlightenment-21c239c1d5a7)
+- [“MLOps with serverless architectures (October 2018)”. LinkedIn SlideShare. Julien Simon.](https://www.slideshare.net/JulienSIMON5/mlops-with-serverless-architectures-october-2018)
+- [“Operational Machine Learning: Seven Considerations for Successful MLOps”. KDNuggets.](https://www.kdnuggets.com/2018/04/operational-machine-learning-successful-mlops.html)
+- [“BD Podcast Ep 34 – Putting AI to Work with MLOps Powered by ParallelM”. Big Data Beard.](https://bigdatabeard.com/bd-podcast-ep-34-putting-ai-to-work-with-mlops-powered-by-parallelm/)
+- [“What is ML Ops? Solutions and best practices for applying DevOps to production ML services”. Artificial Intelligence Conference. O'Reilly.](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2018/public/schedule/detail/68247.html)
 
 ## MUST UNDERSTAND CONCEPTS
 ### Section 1: Framing ML problems
