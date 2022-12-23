@@ -41,6 +41,17 @@ I will take 2022/12/31. This is my final exam in 2022.
 
 ## MLOps
 - [wiki](https://en.wikipedia.org/wiki/MLOps)
+^ “What is ML Ops? Best Practices for Devops for ML”. YouTube. YouTube. 2020年7月19日閲覧。
+^ “What is MLOps?”. Algomox. Algomox. 2020年11月25日閲覧。
+^ “MLOps Silicon Valley”. Meetup. Meetup. 2018年2月2日閲覧。
+^ “Should every business function have an Ops extension?”. Tech HQ. Tech HQ. 2018年4月13日閲覧。
+^ “How to build AI culture: go through the curve of enlightenment”. Medium. Hackernoon. 2018年4月28日閲覧。
+^ “Why MLOps (and not just ML) is your Business’ New Competitive Frontier”. AITrends. AITrends. 2018年1月30日閲覧。
+^ “MLOps with serverless architectures (October 2018)”. LinkedIn SlideShare. Julien Simon. 2018年10月23日閲覧。
+^ “Scalable Data Science/Machine Learning: The State of DataOps / MLOps in 2018”. MachineLearning.AI. Alejandro Saucedo. 2018年9月9日閲覧。
+^ “Operational Machine Learning: Seven Considerations for Successful MLOps”. KDNuggets. KDNuggets. 2018年4月1日閲覧。
+^ “BD Podcast Ep 34 – Putting AI to Work with MLOps Powered by ParallelM”. Big Data Beard. Big Data Beard. 2018年7月17日閲覧。
+^ “What is ML Ops? Solutions and best practices for applying DevOps to production ML services”. Artificial Intelligence Conference. O'Reilly. 2018年10月10日閲覧。
 
 ## MUST UNDERSTAND CONCEPTS
 ### Section 1: Framing ML problems
