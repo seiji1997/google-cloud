@@ -142,8 +142,8 @@ Considerations include:
 
     ●  Privacy implications of data usage and/or collection (e.g., handling sensitive data such as Personally Identifiable Information [PII] and Protected Health Information [PHI])
 - [When to use CPU, GPU, TPU](https://cloud.google.com/tpu/docs/intro-to-tpu#when_to_use_tpus)
-- []()
-- []()
+- [in-memory](https://e-words.jp/w/%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%A2%E3%83%AA.html)
+- [Memorystore for Redis overview](https://cloud.google.com/memorystore/docs/redis/redis-overview)
 
 ### Section 3: Designing data preparation and processing systems
 3.1 Exploring data (EDA). Considerations include:
