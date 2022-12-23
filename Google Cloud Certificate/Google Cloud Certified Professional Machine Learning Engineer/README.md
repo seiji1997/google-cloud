@@ -42,14 +42,21 @@ I will take 2022/12/31. This is my final exam in 2022.
 ## MLOps
 Machine Learning systems can be categorized in eight different categories: data collection, data processing, feature engineering, data labelling, model design, model training and optimization, endpoint deployment, and endpoint monitoring. Each step in the machine learning lifecycle is built in their own system, but requires interconnection. These are the minimum systems that enterprises need to scale machine learning within their organization.<br>
 
-- Deployment and automation
-- Reproducibility of models and predictions
-- Diagnostics
-- Governance and regulatory compliance
-- Scalability
-- Collaboration
-- Business uses
-- Monitoring and management
+- Deployment and automation<br>
+https://dagshub.com/blog/code-to-production-ready-machine-learning-in-4-steps/<br>
+- Reproducibility of models and predictions<br>
+https://petewarden.com/2018/03/19/the-machine-learning-reproducibility-crisis/<br>
+- Diagnostics<br>
+- Governance and regulatory compliance<br>
+https://www.techtarget.com/searchdatamanagement/definition/data-governance<br>
+- Scalability<br>
+https://www.oreilly.com/radar/podcast/how-to-train-and-deploy-deep-learning-at-scale/<br>
+- Collaboration<br>
+https://www.iottechexpo.com/2017/10/ai/iot-machine-learning-ml-ai-why-collaboration-key/<br>
+- Business uses<br>
+https://www.mckinsey.com/featured-insights/digital-disruption/whats-now-and-next-in-analytics-ai-and-automation<br>
+- Monitoring and management<br>
+https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 
 ### materials
 - [wiki](https://en.wikipedia.org/wiki/MLOps)
