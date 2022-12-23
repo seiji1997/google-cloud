@@ -32,7 +32,7 @@ I will take 2022/12/31. This is my final exam in 2022.
 - [Apache Beam](https://beam.apache.org/)
 - [Apache Spark](https://spark.apache.org/)
 
-## data science
+## DATA SCIENCE
 - [datasciencedojo](https://datasciencedojo.com/blog) 
 
 ## PAPER
