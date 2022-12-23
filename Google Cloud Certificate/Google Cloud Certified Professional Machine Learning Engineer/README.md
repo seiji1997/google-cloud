@@ -29,8 +29,8 @@ I will take 2022/12/31. This is my final exam in 2022.
 - [Security - MLOps](https://www.frontiersin.org/articles/10.3389/fdata.2020.587139/full)
 
 ## DATA ENGINEERING RESOURCES
-- [Apache Beam](https://beam.apache.org/)
-- [Apache Spark](https://spark.apache.org/)
+- [Apache Beam](https://beam.apache.org/) - [Google Cloud Dataflow](https://cloud.google.com/dataflow)
+- [Apache Spark](https://spark.apache.org/) - [Google Cloud Dataproc](https://cloud.google.com/dataproc)
 
 ## DATA SCIENCE
 - [datasciencedojo](https://datasciencedojo.com/blog) 
