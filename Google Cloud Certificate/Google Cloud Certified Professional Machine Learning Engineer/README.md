@@ -47,6 +47,7 @@ https://dagshub.com/blog/code-to-production-ready-machine-learning-in-4-steps/<b
 - Reproducibility of models and predictions<br>
 https://petewarden.com/2018/03/19/the-machine-learning-reproducibility-crisis/<br>
 - Diagnostics<br>
+https://petewarden.com/2018/03/19/the-machine-learning-reproducibility-crisis/<br>
 - Governance and regulatory compliance<br>
 https://www.techtarget.com/searchdatamanagement/definition/data-governance<br>
 - Scalability<br>
