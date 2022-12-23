@@ -40,9 +40,20 @@ I will take 2022/12/31. This is my final exam in 2022.
 - [exploratory_data_analysis_for_feature_selection_in_machine_learning.pdf](https://services.google.com/fh/files/misc/exploratory_data_analysis_for_feature_selection_in_machine_learning.pdf)
 
 ## MLOps
+Machine Learning systems can be categorized in eight different categories: data collection, data processing, feature engineering, data labelling, model design, model training and optimization, endpoint deployment, and endpoint monitoring. Each step in the machine learning lifecycle is built in their own system, but requires interconnection. These are the minimum systems that enterprises need to scale machine learning within their organization.<br>
+
+- Deployment and automation
+- Reproducibility of models and predictions
+- Diagnostics
+- Governance and regulatory compliance
+- Scalability
+- Collaboration
+- Business uses
+- Monitoring and management
+
+### materials
 - [wiki](https://en.wikipedia.org/wiki/MLOps)
 - [“What is ML Ops? Best Practices for Devops for ML”. YouTube.](https://www.youtube.com/watch?v=_jnhXzY1HCw)
-- [“MLOps Silicon Valley”. Meetup.](https://www.meetup.com/MLOps-Silicon-Valley/?_cookie-check=o1SkbKRfUlSuQoT3)
 - [“Should every business function have an Ops extension?”. Tech HQ.](https://techhq.com/2018/04/should-every-business-function-have-an-ops-extension/)
 - [“How to build AI culture: go through the curve of enlightenment”. Medium. Hackernoon.](https://hackernoon.com/how-to-build-ai-culture-go-through-the-curve-of-enlightenment-21c239c1d5a7)
 - [“MLOps with serverless architectures (October 2018)”. LinkedIn SlideShare. Julien Simon.](https://www.slideshare.net/JulienSIMON5/mlops-with-serverless-architectures-october-2018)
