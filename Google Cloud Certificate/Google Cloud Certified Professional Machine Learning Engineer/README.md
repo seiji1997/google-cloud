@@ -39,6 +39,9 @@ I will take 2022/12/31. This is my final exam in 2022.
 - [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 - [exploratory_data_analysis_for_feature_selection_in_machine_learning.pdf](https://services.google.com/fh/files/misc/exploratory_data_analysis_for_feature_selection_in_machine_learning.pdf)
 
+## MLOps
+- [wiki](https://en.wikipedia.org/wiki/MLOps)
+
 ## MUST UNDERSTAND CONCEPTS
 ### Section 1: Framing ML problems
 1.1 Translating business challenges into ML use cases. Considerations include:
