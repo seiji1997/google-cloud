@@ -234,7 +234,7 @@ Considerations include:
     ●  Scaling prediction service (e.g., Vertex AI Prediction, containerized serving)
 - [Vertex AI](https://cloud.google.com/vertex-ai)
 - [Dialogflow](https://cloud.google.com/dialogflow/docs)
-- []()
+- [parameter servers - distributed training](https://cloud.google.com/ai-platform/training/docs/tensorflow-2#distributed_training)
 - []()
 
 ### Section 5: Automating and orchestrating ML pipelines
