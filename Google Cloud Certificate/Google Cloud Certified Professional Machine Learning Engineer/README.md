@@ -188,7 +188,7 @@ Considerations include:
     ●  Feature crosses
 
     ●  Transformations (TensorFlow Transform)
-- []()
+- [Bucketing](https://developers.google.com/machine-learning/data-prep/transform/bucketing)
 - []()
 - []()
 
