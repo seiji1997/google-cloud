@@ -70,9 +70,11 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 - [“What is ML Ops? Solutions and best practices for applying DevOps to production ML services”. Artificial Intelligence Conference. O'Reilly.](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2018/public/schedule/detail/68247.html)
 
 ## BLOG FOR PASSING EXAM
-- [Google Cloud Professional Machine Learning Engineer Certification Preparation Guide](https://hilliao.medium.com/google-cloud-professional-machine-learning-engineer-certification-preparation-guide-22a58a6610c9)
-- [Passing the Google cloud professional machine learning engineer exam](https://hilliao.medium.com/passing-the-google-cloud-professional-machine-learning-engineer-exam-ee5109ad77f4)
+- [Google Cloud Professional Machine Learning Engineer Certification Preparation Guide - Hil Liao](https://hilliao.medium.com/google-cloud-professional-machine-learning-engineer-certification-preparation-guide-22a58a6610c9)
+- [Passing the Google cloud professional machine learning engineer exam - Hil Liao](https://hilliao.medium.com/passing-the-google-cloud-professional-machine-learning-engineer-exam-ee5109ad77f4)
 - [How to prepare for the GCP Professional Machine Learning Engineer exam](https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f)
+- [Google Cloud Professional Machine Learning Engineer Certification Preparation Guide - Dmitri Lerko](https://deploy.live/blog/google-cloud-professional-machine-learning-engineer-certification-preparation-guide/)
+- [20 Days to Google Cloud Professional Machine Learning Engineer Exam (BETA)](https://towardsdatascience.com/20-days-to-google-cloud-professional-machine-learning-engineer-exam-beta-b48909499942)
 
 ## MUST UNDERSTAND CONCEPTS: as of 2022/12/20
 ### Section 1: Framing ML problems
