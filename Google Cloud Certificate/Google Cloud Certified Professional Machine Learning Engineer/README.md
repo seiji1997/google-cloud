@@ -17,7 +17,7 @@ I will take 2022/12/31. This is my final exam in 2022.
 - [Machine Learning and AI](https://cloud.google.com/training/machinelearning-ai)
 
 
-## MACHINE LEARNING ON GOOGLE
+## BEST PRACTICES FOR MACHINE LEARNING ON GOOGLE
 - [Best practices for implementing machine learning on Google Cloud](https://cloud.google.com/architecture/ml-on-gcp-best-practices)
 - [Best practices for performance and cost optimization for machine learning](https://cloud.google.com/architecture/best-practices-for-ml-performance-cost)
 
