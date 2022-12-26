@@ -153,6 +153,7 @@ Considerations include:
 - [Memorystore for Redis overview](https://cloud.google.com/memorystore/docs/redis/redis-overview)
 - [Facets](https://developers-jp.googleblog.com/2017/08/facets-open-source-visualization-tool.html)
 - [Correlation Coefficient](https://atmarkit.itmedia.co.jp/ait/articles/2110/13/news027.html)
+- [Chi-Squared Test](https://ai-trend.jp/basic-study/hypothesis-testing/chi%E2%80%90square-test/)
 
 ### Section 3: Designing data preparation and processing systems
 3.1 Exploring data (EDA). Considerations include:
