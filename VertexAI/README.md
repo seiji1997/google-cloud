@@ -57,3 +57,6 @@ Introduce AutoML to understand key difference between AutoML and costom training
 
 - Vertex AI Vizier<br>
 [https://cloud.google.com/vertex-ai/docs/vizier/overview](https://cloud.google.com/vertex-ai/docs/vizier/overview)<br>
+
+## Optoinal
+- [PyTorch on Vertex AI](https://cloud.google.com/blog/ja/topics/developers-practitioners/pytorch-google-cloud-how-deploy-pytorch-models-vertex-ai)
