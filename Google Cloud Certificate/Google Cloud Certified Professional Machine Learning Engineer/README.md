@@ -9,8 +9,9 @@ I will take 2022/12/31. This is my final exam in 2022.
 - 1, [Official Professional Machine Learning Engineer](https://cloud.google.com/certification/guides/machine-learning-engineer)
 - 2, [Professional Machine Learning Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSeYmkCANE81qSBqLW0g2X7RoskBX9yGYQu-m1TtsjMvHabGqg/viewform)
 - 3, [Google Cloud Machine Learning Engineer Certification Prep](https://www.udemy.com/course/google-cloud-machine-learning-engineer-certification-prep/)
-- 4, [Google Cloud Professional Machine Learning Engineer *2022*](https://www.udemy.com/course/google-cloud-professional-machine-learning-engineer-2022/)
-- 5, [REGISTER FOR AN EXAM](https://www.webassessor.com/googlecloudjp)
+- 4, [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- 5, [Google Cloud Professional Machine Learning Engineer *2022*](https://www.udemy.com/course/google-cloud-professional-machine-learning-engineer-2022/)
+- 6, [REGISTER FOR AN EXAM](https://www.webassessor.com/googlecloudjp)
 
 ## LEARNING PATH
 - [Data Engineering and Smart Analytics](https://cloud.google.com/training/data-engineering-and-analytics)
