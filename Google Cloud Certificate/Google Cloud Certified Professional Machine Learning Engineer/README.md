@@ -242,6 +242,7 @@ Considerations include:
 - [imbalanced-data - downsampling-and-upweighting](https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data#downsampling-and-upweighting)
 - ラベルがone-hot エンコーディングで表現されている場合は、損失関数としてcategorical_crossentropy
 - ラベルが整数の場合は、損失関数としてsparse_categorical_crossentropy
+- [recommendation ai](https://cloud.google.com/recommendations-ai/docs/placements#rps)
 
 ### Section 5: Automating and orchestrating ML pipelines
 5.1 Designing and implementing training pipelines. Considerations include:
