@@ -306,3 +306,4 @@ Considerations include:
 - [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/)
 - [Store image, video, audio and unstructured data on Cloud Storage](https://cloud.google.com/architecture/ml-on-gcp-best-practices#store-image-video-audio-and-unstructured-data-on-cloud-storage)
 - [Consuming TFRecord data](https://www.tensorflow.org/guide/data#consuming_tfrecord_data)
+- [Building the quarantine and classification pipeline](https://cloud.google.com/architecture/automating-classification-of-data-uploaded-to-cloud-storage#building_the_quarantine_and_classification_pipeline)
