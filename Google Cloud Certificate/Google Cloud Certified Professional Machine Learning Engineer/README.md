@@ -275,6 +275,7 @@ Considerations include:
 - [GUI product - data-fusion](https://cloud.google.com/data-fusion)
 - [dataproc-serverless](https://cloud.google.com/dataproc-serverless/docs/overview)
 - [kubeflow](https://www.kubeflow.org/docs/components/pipelines/overview/pipelines-overview/)
+- [Architecture](https://web.archive.org/web/20210618072649/https://cloud.google.com/architecture/architecture-of-a-serverless-ml-model#architecture)
 
 ### Section 6: Monitoring, optimizing, and maintaining ML solutions
 6.1 Monitoring and troubleshooting ML solutions. Considerations include:
