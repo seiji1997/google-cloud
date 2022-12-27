@@ -196,6 +196,8 @@ Considerations include:
 - [Bucketing](https://developers.google.com/machine-learning/data-prep/transform/bucketing)
 - [Feature Crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses)
 - [Batch ingest feature values](https://cloud.google.com/vertex-ai/docs/featurestore/ingesting-batch)
+- [VertexAI - tabular data](https://cloud.google.com/vertex-ai/docs/training-overview#tabular_data)
+- [AutoML Tables - Best practices for creating training data](https://cloud.google.com/automl-tables/docs/data-best-practices)
 
 ### Section 4: Developing ML models
 4.1 Building models. Considerations include:
