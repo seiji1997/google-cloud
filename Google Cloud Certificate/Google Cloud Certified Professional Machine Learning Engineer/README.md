@@ -113,8 +113,7 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
     ●  Assessing data readiness and potential limitations
 
     ●  Aligning with Google’s Responsible AI practices (e.g., different biases)
-- []()
-- []()
+- [F1 score](https://atmarkit.itmedia.co.jp/ait/articles/2210/24/news034.html)
 
 ### Section 2: Architecting ML solutions
 2.1 Designing reliable, scalable, and highly available ML solutions. Considerations include:
@@ -154,6 +153,8 @@ Considerations include:
 - [Facets](https://developers-jp.googleblog.com/2017/08/facets-open-source-visualization-tool.html)
 - [Correlation Coefficient](https://atmarkit.itmedia.co.jp/ait/articles/2110/13/news027.html)
 - [Chi-Squared Test](https://ai-trend.jp/basic-study/hypothesis-testing/chi%E2%80%90square-test/)
+- [BigQuery ML - hash](https://cloud.google.com/bigquery/docs/reference/standard-sql/hash_functions?hl=ja)
+- [repeatable sample of data in BigQuery](https://www.oreilly.com/content/repeatable-sampling-of-data-sets-in-bigquery-for-machine-learning/)
 
 ### Section 3: Designing data preparation and processing systems
 3.1 Exploring data (EDA). Considerations include:
@@ -193,7 +194,7 @@ Considerations include:
     ●  Transformations (TensorFlow Transform)
 - [Bucketing](https://developers.google.com/machine-learning/data-prep/transform/bucketing)
 - [Feature Crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses)
-- []()
+- [Batch ingest feature values](https://cloud.google.com/vertex-ai/docs/featurestore/ingesting-batch)
 
 ### Section 4: Developing ML models
 4.1 Building models. Considerations include:
