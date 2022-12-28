@@ -159,6 +159,7 @@ Considerations include:
 - [Chi-Squared Test](https://ai-trend.jp/basic-study/hypothesis-testing/chi%E2%80%90square-test/)
 - [BigQuery ML - hash](https://cloud.google.com/bigquery/docs/reference/standard-sql/hash_functions?hl=ja)
 - [repeatable sample of data in BigQuery](https://www.oreilly.com/content/repeatable-sampling-of-data-sets-in-bigquery-for-machine-learning/)
+- [firebase - cloud messaging](https://firebase.google.com/docs/cloud-messaging)
 
 ### Section 3: Designing data preparation and processing systems
 3.1 Exploring data (EDA). Considerations include:
