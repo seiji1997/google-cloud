@@ -310,3 +310,4 @@ Considerations include:
 - [Consuming TFRecord data](https://www.tensorflow.org/guide/data#consuming_tfrecord_data)
 - [Building the quarantine and classification pipeline](https://cloud.google.com/architecture/automating-classification-of-data-uploaded-to-cloud-storage#building_the_quarantine_and_classification_pipeline)
 - [ai-platform - scale_tiers](https://cloud.google.com/ai-platform/training/docs/machine-types#scale_tiers)
+- [Continuous evaluation overview](https://cloud.google.com/ai-platform/prediction/docs/continuous-evaluation)
