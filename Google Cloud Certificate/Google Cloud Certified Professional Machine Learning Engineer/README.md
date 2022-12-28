@@ -210,6 +210,7 @@ Considerations include:
 - [Federated Learning](https://www.msiism.jp/article/federated-learning.html)
 - [do you wanna make NLP model in BigQuery ML then you can use Tensorflow and see this document](https://cloud.google.com/bigquery-ml/docs/making-predictions-with-imported-tensorflow-models)
 - [Visualize BigQuery data in Jupyter notebooks](https://cloud.google.com/bigquery/docs/visualize-jupyter)
+- [AI platform labels](https://cloud.google.com/ai-platform/prediction/docs/resource-labels#overview_of_labels)
 
 ### Section 4: Developing ML models
 4.1 Building models. Considerations include:
