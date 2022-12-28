@@ -284,6 +284,7 @@ Considerations include:
 - [kubeflow](https://www.kubeflow.org/docs/components/pipelines/overview/pipelines-overview/)
 - [Architecture](https://web.archive.org/web/20210618072649/https://cloud.google.com/architecture/architecture-of-a-serverless-ml-model#architecture)
 - [Architecture for MLOps using TFX, Kubeflow Pipelines, and Cloud Build](https://cloud.google.com/architecture/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build)
+- [when you make Kebuflow pipelines then you can use Reusable Components](https://v0-5.kubeflow.org/docs/pipelines/reusable-components/)
 
 ### Section 6: Monitoring, optimizing, and maintaining ML solutions
 6.1 Monitoring and troubleshooting ML solutions. Considerations include:
