@@ -70,6 +70,7 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 - [“Operational Machine Learning: Seven Considerations for Successful MLOps”. KDNuggets.](https://www.kdnuggets.com/2018/04/operational-machine-learning-successful-mlops.html)
 - [“BD Podcast Ep 34 – Putting AI to Work with MLOps Powered by ParallelM”. Big Data Beard.](https://bigdatabeard.com/bd-podcast-ep-34-putting-ai-to-work-with-mlops-powered-by-parallelm/)
 - [“What is ML Ops? Solutions and best practices for applying DevOps to production ML services”. Artificial Intelligence Conference. O'Reilly.](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2018/public/schedule/detail/68247.html)
+- [F1 Score vs ROC AUC vs Accuracy vs PR AUC: Which Evaluation Metric Should You Choose?](https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc)
 
 ## BLOG FOR PASSING EXAM
 - [Google Cloud Professional Machine Learning Engineer Certification Preparation Guide - Hil Liao](https://hilliao.medium.com/google-cloud-professional-machine-learning-engineer-certification-preparation-guide-22a58a6610c9)
