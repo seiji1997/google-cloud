@@ -279,6 +279,7 @@ Considerations include:
 - [dataproc-serverless](https://cloud.google.com/dataproc-serverless/docs/overview)
 - [kubeflow](https://www.kubeflow.org/docs/components/pipelines/overview/pipelines-overview/)
 - [Architecture](https://web.archive.org/web/20210618072649/https://cloud.google.com/architecture/architecture-of-a-serverless-ml-model#architecture)
+- [Architecture for MLOps using TFX, Kubeflow Pipelines, and Cloud Build](https://cloud.google.com/architecture/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build)
 
 ### Section 6: Monitoring, optimizing, and maintaining ML solutions
 6.1 Monitoring and troubleshooting ML solutions. Considerations include:
