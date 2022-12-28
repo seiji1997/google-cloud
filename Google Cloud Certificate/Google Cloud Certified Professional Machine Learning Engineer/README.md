@@ -204,6 +204,7 @@ Considerations include:
 - [AutoML Tables - Best practices for creating training data](https://cloud.google.com/automl-tables/docs/data-best-practices)
 - [Federated Learning](https://www.msiism.jp/article/federated-learning.html)
 - [do you wanna make NLP model in BigQuery ML then you can use Tensorflow and see this document](https://cloud.google.com/bigquery-ml/docs/making-predictions-with-imported-tensorflow-models)
+- [Visualize BigQuery data in Jupyter notebooks](https://cloud.google.com/bigquery/docs/visualize-jupyter)
 
 ### Section 4: Developing ML models
 4.1 Building models. Considerations include:
