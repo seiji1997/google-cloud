@@ -116,6 +116,7 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
     ●  Aligning with Google’s Responsible AI practices (e.g., different biases)
 - [F1 score](https://atmarkit.itmedia.co.jp/ait/articles/2210/24/news034.html)
 - [collaborative filtering](https://cloud.google.com/blog/topics/developers-practitioners/looking-build-recommendation-system-google-cloud-leverage-following-guidelines-identify-right-solution-you-part-i?hl=en)
+- [Collaborative Filtering](https://developers.google.com/machine-learning/recommendation/collaborative/basics)
 
 ### Section 2: Architecting ML solutions
 2.1 Designing reliable, scalable, and highly available ML solutions. Considerations include:
