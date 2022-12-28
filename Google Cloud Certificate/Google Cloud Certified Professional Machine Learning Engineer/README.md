@@ -317,3 +317,5 @@ Considerations include:
 - [ai-platform - scale_tiers](https://cloud.google.com/ai-platform/training/docs/machine-types#scale_tiers)
 - [Continuous evaluation overview](https://cloud.google.com/ai-platform/prediction/docs/continuous-evaluation)
 - [Better performance with the tf.data API](https://www.tensorflow.org/guide/data_performance#parallelizing_data_extraction)
+- [skew](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#challenges)
+- [rule - Measure Training/Serving Skew.](https://developers.google.com/machine-learning/guides/rules-of-ml/#rule_37_measure_trainingserving_skew)
