@@ -319,3 +319,4 @@ Considerations include:
 - [Better performance with the tf.data API](https://www.tensorflow.org/guide/data_performance#parallelizing_data_extraction)
 - [skew](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#challenges)
 - [rule - Measure Training/Serving Skew.](https://developers.google.com/machine-learning/guides/rules-of-ml/#rule_37_measure_trainingserving_skew)
+- [when you wanna make optimize](https://cloud.google.com/architecture/minimizing-predictive-serving-latency-in-machine-learning#optimizing_models_for_serving)
