@@ -118,6 +118,7 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 - [F1 score](https://atmarkit.itmedia.co.jp/ait/articles/2210/24/news034.html)
 - [collaborative filtering](https://cloud.google.com/blog/topics/developers-practitioners/looking-build-recommendation-system-google-cloud-leverage-following-guidelines-identify-right-solution-you-part-i?hl=en)
 - [Collaborative Filtering](https://developers.google.com/machine-learning/recommendation/collaborative/basics)
+- [crash course - feature crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/check-your-understanding)
 
 ### Section 2: Architecting ML solutions
 2.1 Designing reliable, scalable, and highly available ML solutions. Considerations include:
