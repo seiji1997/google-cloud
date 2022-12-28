@@ -39,6 +39,7 @@ I will take 2022/12/31. This is my final exam in 2022.
 ## PAPER
 - [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 - [exploratory_data_analysis_for_feature_selection_in_machine_learning.pdf](https://services.google.com/fh/files/misc/exploratory_data_analysis_for_feature_selection_in_machine_learning.pdf)
+- [Impact-Big-Data-AI-in-the-Insurance-Sector.pdf](https://www.oecd.org/finance/Impact-Big-Data-AI-in-the-Insurance-Sector.pdf)
 
 ## MLOps
 Machine Learning systems can be categorized in eight different categories: data collection, data processing, feature engineering, data labelling, model design, model training and optimization, endpoint deployment, and endpoint monitoring. Each step in the machine learning lifecycle is built in their own system, but requires interconnection. These are the minimum systems that enterprises need to scale machine learning within their organization.<br>
