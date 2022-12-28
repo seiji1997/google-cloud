@@ -120,6 +120,8 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 - [Collaborative Filtering](https://developers.google.com/machine-learning/recommendation/collaborative/basics)
 - [crash course - feature crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/check-your-understanding)
 - [Data Leakage](https://www.kaggle.com/code/dansbecker/data-leakage/notebook)
+- [Pre-installed packages](https://cloud.google.com/deep-learning-vm/docs/introduction#pre-installed_packages)
+
 
 ### Section 2: Architecting ML solutions
 2.1 Designing reliable, scalable, and highly available ML solutions. Considerations include:
