@@ -121,6 +121,7 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 - [crash course - feature crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/check-your-understanding)
 - [Data Leakage](https://www.kaggle.com/code/dansbecker/data-leakage/notebook)
 - [Pre-installed packages](https://cloud.google.com/deep-learning-vm/docs/introduction#pre-installed_packages)
+- [perspective of training, test, validation data to predict](https://developers.google.com/machine-learning/crash-course/18th-century-literature)
 
 
 ### Section 2: Architecting ML solutions
