@@ -38,25 +38,27 @@ online-proctored exam from a remote location
 
 - 【合格予定】**Google Cloud Certified - Professional Machine Learning Engineer (English)**
 
-2022年12月xx日 10:00 AM
-
-online-proctored exam from a remote location
-
-- 【合格予定】**Google Cloud Certified - Professional Cloud Developer (Japanese)**
-
-2022年1月xx日 10:00 AM
-
-online-proctored exam from a remote location
-
-- 【合格予定】**Google Cloud Certified - Professional Network Engineer (English)**
-
-2022年2月xx日 10:00 AM
+2022年12月31日 10:00 AM
 
 online-proctored exam from a remote location
 
 - 【合格予定】**Google Cloud Certified - Professional DevOps Engineer (English)**
 
-2022年2月xx日 10:00 AM
+2022年1月9日 10:00 AM
 
 online-proctored exam from a remote location
+
+
+- 【合格予定】**Google Cloud Certified - Professional Cloud Developer (English)**
+
+2022年4月xx日 10:00 AM
+
+online-proctored exam from a remote location
+
+- 【合格予定】**Google Cloud Certified - Professional Network Engineer (English)**
+
+2022年5月xx日 10:00 AM
+
+online-proctored exam from a remote location
+
 
