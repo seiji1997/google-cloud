@@ -123,6 +123,7 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 - [Data Leakage](https://www.kaggle.com/code/dansbecker/data-leakage/notebook)
 - [Pre-installed packages](https://cloud.google.com/deep-learning-vm/docs/introduction#pre-installed_packages)
 - [perspective of training, test, validation data to predict](https://developers.google.com/machine-learning/crash-course/18th-century-literature)
+- [Regularization for Sparsity: L₁ Regularization](https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/l1-regularization)
 
 
 ### Section 2: Architecting ML solutions
