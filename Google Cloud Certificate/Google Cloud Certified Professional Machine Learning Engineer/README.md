@@ -125,6 +125,7 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 - [perspective of training, test, validation data to predict](https://developers.google.com/machine-learning/crash-course/18th-century-literature)
 - [Regularization for Sparsity: L₁ Regularization](https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/l1-regularization)
 - [XAI](https://cloud.google.com/vertex-ai/docs/explainable-ai/overview#sampled-shapley)
+- [time series nested cross validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
 
 
 ### Section 2: Architecting ML solutions
