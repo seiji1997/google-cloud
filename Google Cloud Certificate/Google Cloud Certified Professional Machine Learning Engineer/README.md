@@ -334,3 +334,4 @@ Considerations include:
 - [rule - Measure Training/Serving Skew.](https://developers.google.com/machine-learning/guides/rules-of-ml/#rule_37_measure_trainingserving_skew)
 - [when you wanna make optimize](https://cloud.google.com/architecture/minimizing-predictive-serving-latency-in-machine-learning#optimizing_models_for_serving)
 - [Vertex AI - Custom containers overview](https://cloud.google.com/vertex-ai/docs/training/containers-overview)
+- [Reduce the costs of ML workflows with preemptible VMs and GPUs](https://cloud.google.com/blog/products/ai-machine-learning/reduce-the-costs-of-ml-workflows-with-preemptible-vms-and-gpus?hl=en)
