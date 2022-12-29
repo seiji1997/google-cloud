@@ -21,6 +21,7 @@ I will take 2022/12/31. This is my final exam in 2022.
 - [Best practices for implementing machine learning on Google Cloud](https://cloud.google.com/architecture/ml-on-gcp-best-practices)
 - [Best practices for performance and cost optimization for machine learning](https://cloud.google.com/architecture/best-practices-for-ml-performance-cost)
 - [Better performance with the tf.data API](https://www.tensorflow.org/guide/data_performance#parallelizing_data_extraction)
+- [OMG, have to read it: No pipelines needed. Stream data with Pub/Sub direct to BigQuery](https://cloud.google.com/blog/products/data-analytics/pub-sub-launches-direct-path-to-bigquery-for-streaming-analytics?hl=en)
 
 ## MACHINE LEARNING RESOURCES
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
