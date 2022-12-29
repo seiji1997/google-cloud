@@ -132,6 +132,7 @@ GPU support<br>
 - [DLVM](https://cloud.google.com/deep-learning-vm)<br>
 - [sklearn](https://scikit-learn.org/stable/faq.html#will-you-add-gpu-support)
 - [Vertex AI - sklearn](https://cloud.google.com/vertex-ai/docs/predictions/pre-built-containers?hl=en#scikit-learn)
+- [Don’t be afraid to launch a product without machine learning.](https://developers.google.com/machine-learning/guides/rules-of-ml#rule_1_don%E2%80%99t_be_afraid_to_launch_a_product_without_machine_learning)
 
 ### Section 2: Architecting ML solutions
 2.1 Designing reliable, scalable, and highly available ML solutions. Considerations include:
