@@ -311,6 +311,8 @@ Considerations include:
 - [when you make Kebuflow pipelines then you can use Reusable Components](https://v0-5.kubeflow.org/docs/pipelines/reusable-components/)
 - [Triggering and scheduling Kubeflow Pipelines](https://cloud.google.com/architecture/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build#triggering-and-scheduling-kubeflow-pipelines)
 - [Vertex AI - Build a pipeline](https://cloud.google.com/vertex-ai/docs/pipelines/build-pipeline)
+- [Detecting anomalies in financial transactions by using AI Platform, Dataflow, and BigQuery](https://cloud.google.com/architecture/detecting-anomalies-in-financial-transactions)
+- [How to detect machine-learned anomalies in real-time foreign exchange data](https://cloud.google.com/blog/topics/financial-services/detect-anomalies-in-real-time-forex-data-with-ml?hl=en)
 
 ### Section 6: Monitoring, optimizing, and maintaining ML solutions
 6.1 Monitoring and troubleshooting ML solutions. Considerations include:
