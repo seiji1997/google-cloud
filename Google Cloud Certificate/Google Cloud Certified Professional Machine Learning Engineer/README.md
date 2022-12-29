@@ -17,10 +17,10 @@ I will take 2022/12/31. This is my final exam in 2022.
 - [Data Engineering and Smart Analytics](https://cloud.google.com/training/data-engineering-and-analytics)
 - [Machine Learning and AI](https://cloud.google.com/training/machinelearning-ai)
 
-
 ## BEST PRACTICES FOR MACHINE LEARNING ON GOOGLE
 - [Best practices for implementing machine learning on Google Cloud](https://cloud.google.com/architecture/ml-on-gcp-best-practices)
 - [Best practices for performance and cost optimization for machine learning](https://cloud.google.com/architecture/best-practices-for-ml-performance-cost)
+- [Better performance with the tf.data API](https://www.tensorflow.org/guide/data_performance#parallelizing_data_extraction)
 
 ## MACHINE LEARNING RESOURCES
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
