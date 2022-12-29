@@ -222,6 +222,7 @@ Considerations include:
 - [do you wanna make NLP model in BigQuery ML then you can use Tensorflow and see this document](https://cloud.google.com/bigquery-ml/docs/making-predictions-with-imported-tensorflow-models)
 - [Visualize BigQuery data in Jupyter notebooks](https://cloud.google.com/bigquery/docs/visualize-jupyter)
 - [AI platform labels](https://cloud.google.com/ai-platform/prediction/docs/resource-labels#overview_of_labels)
+- [wide range data - Log Scaling](https://developers.google.com/machine-learning/data-prep/transform/normalization#scaling-to-a-range)
 
 ### Section 4: Developing ML models
 4.1 Building models. Considerations include:
