@@ -130,6 +130,7 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 GPU support<br>
 - [DLVM](https://cloud.google.com/deep-learning-vm)<br>
 - [sklearn](https://scikit-learn.org/stable/faq.html#will-you-add-gpu-support)
+- [Vertex AI - sklearn](https://cloud.google.com/vertex-ai/docs/predictions/pre-built-containers?hl=en#scikit-learn)
 
 ### Section 2: Architecting ML solutions
 2.1 Designing reliable, scalable, and highly available ML solutions. Considerations include:
