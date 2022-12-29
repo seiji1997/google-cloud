@@ -174,6 +174,7 @@ Considerations include:
 - [repeatable sample of data in BigQuery](https://www.oreilly.com/content/repeatable-sampling-of-data-sets-in-bigquery-for-machine-learning/)
 - [firebase - cloud messaging](https://firebase.google.com/docs/cloud-messaging)
 - [data catalog](https://cloud.google.com/data-catalog/docs/concepts/overview)
+- [The bfloat16 numerical format](https://cloud.google.com/tpu/docs/bfloat16)
 
 ### Section 3: Designing data preparation and processing systems
 3.1 Exploring data (EDA). Considerations include:
