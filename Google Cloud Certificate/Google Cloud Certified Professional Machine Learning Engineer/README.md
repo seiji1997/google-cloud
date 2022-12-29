@@ -337,3 +337,4 @@ Considerations include:
 - [Vertex AI - Custom containers overview](https://cloud.google.com/vertex-ai/docs/training/containers-overview)
 - [Reduce the costs of ML workflows with preemptible VMs and GPUs](https://cloud.google.com/blog/products/ai-machine-learning/reduce-the-costs-of-ml-workflows-with-preemptible-vms-and-gpus?hl=en)
 - [Using Checkpoints for Large Models](https://cloud.google.com/optimization/docs/guide/checkpointing)
+- [troubleshooting - 429: Out of Memory](https://cloud.google.com/ai-platform/training/docs/troubleshooting)
