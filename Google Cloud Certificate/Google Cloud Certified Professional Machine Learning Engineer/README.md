@@ -127,7 +127,9 @@ https://www.iguazio.com/blog/mlops-challenges-solutions-future-trends/<br>
 - [XAI](https://cloud.google.com/vertex-ai/docs/explainable-ai/overview#sampled-shapley)
 - [AutoML Tables - local](https://cloud.google.com/automl-tables/docs/explain#local)
 - [time series nested cross validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
-
+GPU support
+- [DLVM](https://cloud.google.com/deep-learning-vm)
+- [sklearn](https://scikit-learn.org/stable/faq.html#will-you-add-gpu-support)
 
 ### Section 2: Architecting ML solutions
 2.1 Designing reliable, scalable, and highly available ML solutions. Considerations include:
