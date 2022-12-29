@@ -274,6 +274,7 @@ Considerations include:
 - ラベルが整数の場合は、損失関数としてsparse_categorical_crossentropy
 - [recommendation ai](https://cloud.google.com/recommendations-ai/docs/placements#rps)
 - [AutoML - core-ml](https://cloud.google.com/vision/automl/docs/export-edge#core-ml)
+- [Do you want to reduce inference latency? - dynamic range quantization](https://www.tensorflow.org/lite/performance/post_training_quantization#dynamic_range_quantization)
 
 ### Section 5: Automating and orchestrating ML pipelines
 5.1 Designing and implementing training pipelines. Considerations include:
