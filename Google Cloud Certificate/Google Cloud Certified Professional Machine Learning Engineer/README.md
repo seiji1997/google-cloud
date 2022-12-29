@@ -302,6 +302,7 @@ Considerations include:
 - [Architecture for MLOps using TFX, Kubeflow Pipelines, and Cloud Build](https://cloud.google.com/architecture/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build)
 - [when you make Kebuflow pipelines then you can use Reusable Components](https://v0-5.kubeflow.org/docs/pipelines/reusable-components/)
 - [Triggering and scheduling Kubeflow Pipelines](https://cloud.google.com/architecture/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build#triggering-and-scheduling-kubeflow-pipelines)
+- [Vertex AI - Build a pipeline](https://cloud.google.com/vertex-ai/docs/pipelines/build-pipeline)
 
 ### Section 6: Monitoring, optimizing, and maintaining ML solutions
 6.1 Monitoring and troubleshooting ML solutions. Considerations include:
