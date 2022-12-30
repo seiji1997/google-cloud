@@ -22,6 +22,7 @@ I will take 2022/12/31. This is my final exam in 2022.
 - [Best practices for performance and cost optimization for machine learning](https://cloud.google.com/architecture/best-practices-for-ml-performance-cost)
 - [Better performance with the tf.data API](https://www.tensorflow.org/guide/data_performance#parallelizing_data_extraction)
 - [OMG, have to read it: No pipelines needed. Stream data with Pub/Sub direct to BigQuery](https://cloud.google.com/blog/products/data-analytics/pub-sub-launches-direct-path-to-bigquery-for-streaming-analytics?hl=en)
+- [Best Practices for ML Engineering: Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 ## MACHINE LEARNING RESOURCES
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
@@ -351,8 +352,9 @@ Considerations include:
 - [skew](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#challenges)
 - [rule - Measure Training/Serving Skew.](https://developers.google.com/machine-learning/guides/rules-of-ml/#rule_37_measure_trainingserving_skew)
 - [when you wanna make optimize](https://cloud.google.com/architecture/minimizing-predictive-serving-latency-in-machine-learning#optimizing_models_for_serving)
-- [Vertex AI - Custom containers overview](https://cloud.google.com/vertex-ai/docs/training/containers-overview)
+- [VertexAI - Custom containers overview](https://cloud.google.com/vertex-ai/docs/training/containers-overview)
 - [Reduce the costs of ML workflows with preemptible VMs and GPUs](https://cloud.google.com/blog/products/ai-machine-learning/reduce-the-costs-of-ml-workflows-with-preemptible-vms-and-gpus?hl=en)
 - [Using Checkpoints for Large Models](https://cloud.google.com/optimization/docs/guide/checkpointing)
 - [troubleshooting - 429: Out of Memory](https://cloud.google.com/ai-platform/training/docs/troubleshooting)
 - [VeetexAI - Schedule pipeline execution with Cloud Scheduler](https://cloud.google.com/vertex-ai/docs/pipelines/schedule-cloud-scheduler)
+- [VertexAI - Monitor models for training-serving skew](https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai?hl=en)
