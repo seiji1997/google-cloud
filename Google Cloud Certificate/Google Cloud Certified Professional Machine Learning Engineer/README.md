@@ -177,6 +177,7 @@ Considerations include:
 - [firebase - cloud messaging](https://firebase.google.com/docs/cloud-messaging)
 - [data catalog](https://cloud.google.com/data-catalog/docs/concepts/overview)
 - [The bfloat16 numerical format](https://cloud.google.com/tpu/docs/bfloat16)
+- [Do you have a code? and wanna use Kubeflow SDK? then - func_to_container_op](https://kubeflow-pipelines.readthedocs.io/en/stable/source/kfp.components.html?highlight=func_to_container_op%20#kfp.components.func_to_container_op)
 
 ### Section 3: Designing data preparation and processing systems
 3.1 Exploring data (EDA). Considerations include:
