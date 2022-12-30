@@ -227,6 +227,7 @@ Considerations include:
 - [AI platform labels](https://cloud.google.com/ai-platform/prediction/docs/resource-labels#overview_of_labels)
 - [wide range data - Log Scaling](https://developers.google.com/machine-learning/data-prep/transform/normalization#scaling-to-a-range)
 - [Do you want to detect data anomalies? then use TFVD](https://www.tensorflow.org/tfx/data_validation/get_started)
+- [Take charge of your data: How tokenization makes data usable without sacrificing privacy](https://cloud.google.com/blog/products/identity-security/take-charge-of-your-data-how-tokenization-makes-data-usable-without-sacrificing-privacy?hl=en)
 
 ### Section 4: Developing ML models
 4.1 Building models. Considerations include:
