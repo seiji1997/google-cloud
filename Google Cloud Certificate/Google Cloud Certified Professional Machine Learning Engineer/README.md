@@ -1,5 +1,5 @@
 # Google Cloud Certified Professional Machine Learning Engineer
-I will take 2023/1/21. This is my first exam in 2023.
+I will take 2023/6/4. This is my first exam in 2023.
 
 - [Official Professional Machine Learning Engineer](https://cloud.google.com/certification/guides/machine-learning-engineer)
 - [How to study for (and pass) Google's Professional Machine Learning Engineer certification](https://www.linkedin.com/pulse/how-study-pass-googles-professional-machine-learning-engineer-siegel/)
